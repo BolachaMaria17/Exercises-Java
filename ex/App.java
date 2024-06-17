@@ -10,7 +10,7 @@ public class App {
 
         System.out.print("Informe um número: ");
         number = scan.nextInt();
-        modelo.isPrimeNumber(number);
+        modelo.ePrimo(number);
 
         scan.close();
     }
